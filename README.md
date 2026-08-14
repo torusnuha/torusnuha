@@ -10,8 +10,3 @@
 <p align="center">
  my toru handbag :3 
 </p>
-<p align="center">
-  <img src="https://github.com/torusnuha/torusnuha/blob/main/IMG_20260802_085217_030.webp" width="500">
-</p> 
-<p align="center">
- ( ꈍ◡ꈍ)
