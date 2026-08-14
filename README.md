@@ -11,7 +11,7 @@
  my toru handbag :3 
 </p>
 <p align="center">
-  <img src="https://github.com/torusnuha/torusnuha/blob/main/photo_2026-07-22_10-47-39.jpg" width="500">
+  <img src="https://github.com/torusnuha/torusnuha/blob/main/IMG_20260802_085217_030.webp" width="500">
 </p> 
 <p align="center">
  ( ꈍ◡ꈍ)
