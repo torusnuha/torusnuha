@@ -9,3 +9,10 @@
 </p> 
 <p align="center">
  my toru handbag :3 
+</p>
+<p align="center">
+  <img src="IMG_20260802_085217_030.webp
+" width="500">
+</p> 
+<p align="center">
+ ( ꈍ◡ꈍ)
