@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/satorukisser/satorukisser/blob/main/Gojo%20Satoru.jpg?raw=true" width="500">
-</p>
-<p align="center">
- i love satoru a normal amount
+<video controls>
+  <source src="https://github.com/torusnuha/torusnuha/raw/refs/heads/main/my%20love%20(1).mov" type="video/mp4">
+</video>
 </p>
